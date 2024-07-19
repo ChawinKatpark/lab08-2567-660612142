@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : นายชวิน เกตุภาค
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660612142.vercel.app/
 
 ---
 
